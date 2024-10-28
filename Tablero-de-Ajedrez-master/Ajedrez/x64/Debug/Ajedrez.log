@@ -1,0 +1,2 @@
+﻿  Tablero.cpp
+C:\Users\Administrator\Desktop\Nueva carpeta (2)\Tablero-de-Ajedrez-master\Ajedrez\Tablero.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Window.hpp': No such file or directory
